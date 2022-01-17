@@ -1,0 +1,40 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color:deeppink;
+    font-weight:900;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-size:cover ;
+}
+
+
+.play_button{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas{
+    border: 5px solid bl;
+    border-radius: 20px;
+}
+
+h3{
+    background-color: lavender;
+}
+
+
+
+
+
+
+
+
